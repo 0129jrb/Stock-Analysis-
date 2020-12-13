@@ -20,6 +20,6 @@ Disvantage:1.Time consuming
            2.it’s risky when the existing code doesn’t have proper test cases  
            3.it may introduces bugs 
 
-## refactoring the original VBA script         
+## Refactoring the original VBA script; pros and cons        
    refactoring the orignial has improved the speed of excution time significanlty by removig redundan. however, there was poential reisk of introudcing bugs as a the concet of tickerindex was introduced.      
           
